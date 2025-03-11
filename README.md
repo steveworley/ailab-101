@@ -17,3 +17,11 @@ pip install -r requirements.txt
 
 ## Usage
 
+```bash
+python main.py
+```
+
+```bash
+python resillience.py
+```
+
